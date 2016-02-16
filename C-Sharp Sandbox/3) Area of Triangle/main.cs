@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CSharpBook.Examples.AreaOfATriangle
+namespace AreaOfATriangle
 {
     class Program
     {
