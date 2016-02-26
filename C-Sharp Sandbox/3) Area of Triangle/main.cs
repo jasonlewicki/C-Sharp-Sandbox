@@ -21,7 +21,7 @@ namespace AreaOfATriangle
             float b = 2;
 
             // The height of the triangle.
-            float h = 4;
+            float h = 4]5;
 
             // Do the math.
             float area = 0.5f * b * h;
