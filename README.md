@@ -1,2 +1,2 @@
 # C-Sharp-Sandbox
-Ongoing C# ruminations
+Ongoing C# ruminations and testing
