@@ -9,14 +9,6 @@ namespace AreaOfATriangle
     {
         static void Main(string[] args)
         {
-            // We could have chosen any of a number of types here. I avoided
-            // the integral types because the math I'm doing will involve division,
-            // which may mean we'll end up with fractional values, which can't be
-            // stored in an integer type.
-            // The double or decimal type provide a higher range and more accuracy,
-            // at the expense of taking up more space. Between the three, in this
-            // particular case, it probably doesn't matter what you choose.
-
             // The length of the base of the triangle.
             float b = 2;
 
