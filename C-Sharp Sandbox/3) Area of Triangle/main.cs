@@ -21,7 +21,7 @@ namespace AreaOfATriangle
             // Display the results.
             Console.WriteLine("Base: " + b);
             Console.WriteLine("Height: " + h);
-            Console.WriteLine("Area: " + area);
+            Console.WriteLine("Area of Triangle: " + area);
         }
     }
 }
